@@ -1,2 +1,3 @@
 Ini dari folder remote
 Ini dari folder cloning
+ini conflict dari folder remote
