@@ -1,3 +1,5 @@
 Ini dari folder remote
-
 ini conflict dari folder cloning
+Ini dari folder cloning
+ini conflict dari folder remote
+
